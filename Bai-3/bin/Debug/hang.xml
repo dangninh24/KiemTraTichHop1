@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<DS>
+	<HoaDon>
+		<MaHD>HD1</MaHD>
+		<NgayBan>2015-11-09</NgayBan>
+		<LoaiHang MaLoai="A" TenLoai="Điện tử">
+			<Hang MaHang ="H1">
+				<TenHang>Tivi</TenHang>
+				<SoLuong>60</SoLuong>
+				<DonViTinh>Chiếc</DonViTinh>
+				<DonHang>6000000</DonHang>
+			</Hang>
+			<Hang MaHang ="H2">
+				<TenHang>Tủ lạnh</TenHang>
+				<SoLuong>80</SoLuong>
+				<DonViTinh>Chiếc</DonViTinh>
+				<DonHang>4200000</DonHang>
+			</Hang>
+		</LoaiHang>
+	</HoaDon>
+</DS>

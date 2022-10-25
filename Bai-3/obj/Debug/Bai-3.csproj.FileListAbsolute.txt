@@ -1,0 +1,11 @@
+C:\LapTrinh\TichHopHeThong\Bai-3\Bai-3\bin\Debug\Bai-3.exe.config
+C:\LapTrinh\TichHopHeThong\Bai-3\Bai-3\bin\Debug\Bai-3.exe
+C:\LapTrinh\TichHopHeThong\Bai-3\Bai-3\bin\Debug\Bai-3.pdb
+C:\LapTrinh\TichHopHeThong\Bai-3\Bai-3\obj\Debug\Bai-3.csproj.AssemblyReference.cache
+C:\LapTrinh\TichHopHeThong\Bai-3\Bai-3\obj\Debug\Bai-3.csproj.SuggestedBindingRedirects.cache
+C:\LapTrinh\TichHopHeThong\Bai-3\Bai-3\obj\Debug\Bai_3.Properties.Resources.resources
+C:\LapTrinh\TichHopHeThong\Bai-3\Bai-3\obj\Debug\Bai-3.csproj.GenerateResource.cache
+C:\LapTrinh\TichHopHeThong\Bai-3\Bai-3\obj\Debug\Bai-3.csproj.CoreCompileInputs.cache
+C:\LapTrinh\TichHopHeThong\Bai-3\Bai-3\obj\Debug\Bai-3.exe
+C:\LapTrinh\TichHopHeThong\Bai-3\Bai-3\obj\Debug\Bai-3.pdb
+C:\LapTrinh\TichHopHeThong\Bai-3\Bai-3\obj\Debug\Bai_3.Form1.resources
